@@ -1,6 +1,6 @@
 [build]
   command = "npm run build"
-  publish = ".next"
+  publish = ".Comment la forme du museau affecte le caractère d’un chat"
 
 [[plugins]]
   package = "netlify-plugin-cypress"
